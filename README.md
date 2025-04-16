@@ -1,1 +1,1 @@
-# Expense-Tracker-and-Money-Manager
+# Expense-Tracker-And-Money-Manager
